@@ -15,9 +15,16 @@ include 'extras/functions.php';
 </head>
 
 <body>
-  <header class="special_promo">
+  <header class="special_promo menu-burger">
     <h1>Super projet</h1>
   </header>
+  <nav>
+    <ul>
+      <li>Home</li>
+      <li>About us</li>
+      <li>Contact</li>
+    </ul>
+  </nav>
   <div>
     <a href="#"><img src="#" alt=""></a>
   </div>
