@@ -28,7 +28,7 @@ include 'extras/functions.php';
   <div>
     <a href="#"><img src="#" alt=""></a>
   </div>
-  <footer>@charles laurent 2024</footer>
+  <footer>@claurent 2024</footer>
 </body>
 
 </html>
